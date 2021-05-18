@@ -14,7 +14,7 @@
 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/mohammad-al-najar-489023152/"><img height="32" width="32" style="color:#0A66C2"
 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/14668004/monajar"><img height="32" width="32" style="color:#F58025"
+<a href="https://stackoverflow.com/users/14668004/monajar" style="color:#F58025"><img height="32" width="32" style="color:#F58025"
 src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /></a>
 <a href=""></a>
 
@@ -26,4 +26,4 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /></a
 
 ### Most Used Languages:
 
-![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalnajar&show_icons=true&theme=radical)
+![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalnajar&show_icons=true&theme=algolia)
