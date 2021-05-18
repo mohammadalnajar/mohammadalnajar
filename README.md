@@ -9,3 +9,11 @@
 
 - 📫 How to reach me: ...
 
+### GitHub States: 
+
+![mohammadalnajar's states](https://github-readme-stats.vercel.app/api?username=mohammadalnajar&count_private=true&show_icons=true&theme=radical)
+
+
+### Most Used Languages:
+
+![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalnajar&show_icons=true&theme=radical)
