@@ -8,9 +8,16 @@
 
 <!-- - 📫 How to reach me: ... -->
 
-### Contact me on:
+### Reach me on:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Twitter.svg" />
+<a href="https://twitter.com/mo_najar_97"><img height="32" width="32" style="color:#1DA1F2"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/mohammad-al-najar-489023152/"><img height="32" width="32" style="color:#0A66C2"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+<a href="https://stackoverflow.com/users/14668004/monajar"><img height="32" width="32" style="color:#F58025"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /></a>
+<a href=""></a>
+
 ### Languages and Tools:
 
 ### GitHub Stats:
