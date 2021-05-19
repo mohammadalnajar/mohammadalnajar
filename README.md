@@ -10,15 +10,25 @@
 
 ### Reach me on:
 
-<a href="https://twitter.com/mo_najar_97"><img height="32" width="32" style="color:#1DA1F2"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/mohammad-al-najar-489023152/"><img height="32" width="32" style="color:#0A66C2"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/14668004/monajar" style="color:#F58025"><img height="32" width="32" style="color:#F58025"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /></a>
-<a href=""></a>
+<a href="https://twitter.com/mo_najar_97"><img 
+src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammad-al-najar-489023152/"><img 
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/14668004/monajar" style="color:#F58025"><img
+src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="mailto:malnajjar16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Languages and Tools:
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" height="32" />
+<img src="https://user-images.githubusercontent.com/7927596/68089633-dfed3800-fe38-11e9-893e-4efd59306bdd.png" width="32" height="32" />
+<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="32" height="32" />
+
+</div>
 
 ### GitHub Stats:
 
