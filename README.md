@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at [HackYourFuture](https://github.com/HackYourFuture) ...
-- 🌱 I’m currently learning JavaScript ...
+- 🌱 I’m currently learning ReactJs ...
 - 👯 I’m looking to collaborate on open source projects ...
 - 💬 Ask me about AnyThing ...
 - ⚡ Fun fact: I always Forget about Code I wrote yesterday :smile: ...
@@ -27,13 +27,21 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="32" height="32" />
 <img src="https://user-images.githubusercontent.com/7927596/68089633-dfed3800-fe38-11e9-893e-4efd59306bdd.png" width="32" height="32" />
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="32" height="32" />
-
+<img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="32" height="32" />
+<img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="32" height="32" />
+<img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" width="32" height="32" />
 </div>
 
 ### GitHub Stats:
 
-![mohammadalnajar's states](https://github-readme-stats.vercel.app/api?username=mohammadalnajar&count_private=true&show_icons=true&theme=algolia)
+![mohammadalnajar's states](https://github-readme-stats.vercel.app/api?username=mohammadalnajar&count_private=true&show_icons=true&theme=algolia&hide_border=true)
+
+### Current streak:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammadalnajar&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ### Most Used Languages:
 
-![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalnajar&show_icons=true&theme=algolia)
+![mo's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalnajar&show_icons=true&theme=algolia&hide_border=true)
+
+
