@@ -1,6 +1,6 @@
 ## Hi there 👋
 ___
-I am **Mohammad**, a full-stack web dev, graduated at [HackYourFuture](https://github.com/HackYourFuture), a 7 months course where we covered much full-stack languages and tools like:
+I am **Mohammad**, a full-stack web dev, graduated at [HackYourFuture](https://github.com/HackYourFuture), where we covered much full-stack languages and tools like:
 html, css, javascript, ReactJs, NodeJs, MongoDB, ExpressJs and more design tools.
 
 - 🔭 I’m currently learning ReactJs ...
