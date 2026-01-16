@@ -14,11 +14,11 @@ I build internal platforms that automate operational workflows such as **invoici
 
 ---
 
-## Public work (safe-to-share)
+## Public work
 Most of my recent production work is in **private client repositories**.  
 To provide public, reviewable examples of how I build, I’m publishing **sanitized demos and case studies** here:
 
-### ⭐ Featured (recommended to pin)
+### ⭐ Featured
 - **Backend Showcase – API + PostgreSQL + Docker + tests** *(coming / link)*  
   Production-style REST API with validation, migrations, indexing, and test coverage.
 - **Full-Stack Showcase – Next.js dashboard + API** *(coming / link)*  
