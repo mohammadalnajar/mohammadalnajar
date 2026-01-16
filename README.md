@@ -1,13 +1,46 @@
-## Hi there 👋
-___
-I am **Mohammad**, a full-stack web dev, graduated at [HackYourFuture](https://github.com/HackYourFuture), where we covered much full-stack languages and tools like:
-html, css, javascript, ReactJs, NodeJs, MongoDB, ExpressJs and more design tools.
+# Mohammad Al Najar 👋
+**Backend-leaning Full-Stack Software Engineer** based in **Eindhoven, The Netherlands**  
+**Node.js / TypeScript / PostgreSQL / Next.js** — APIs, data modeling, business automation, and reliable systems.
 
-- 🔭 I’m currently learning ReactJs ...
-- 🌱 Next step is learning NextJs ...
-- 👯 I’m looking to collaborate on open source projects ...
-- 💬 Ask me about AnyThing ...
-- ⚡ Fun fact: I always Forget about Code I wrote yesterday :smile: ...
+I build internal platforms that automate operational workflows such as **invoicing, reporting, workforce planning, and secure data management**. I’m strongest when the work involves **complex business rules**, long-term **data correctness**, and shipping features that teams rely on daily.
+
+---
+
+## What I focus on
+- **Backend & Data:** Node.js/Express, TypeScript, PostgreSQL (relational modeling, historical data, complex queries)
+- **Frontend:** Next.js (App Router), React, Tailwind — reusable UI and performance-aware implementation
+- **Security (practical):** RBAC-style authorization, CSRF protection, input validation/sanitization, secure headers, rate limiting
+- **Delivery:** ownership, clear communication, breaking ambiguous requirements into shippable milestones (Jira/agile)
+
+---
+
+## Public work (safe-to-share)
+Most of my recent production work is in **private client repositories**.  
+To provide public, reviewable examples of how I build, I’m publishing **sanitized demos and case studies** here:
+
+### ⭐ Featured (recommended to pin)
+- **Backend Showcase – API + PostgreSQL + Docker + tests** *(coming / link)*  
+  Production-style REST API with validation, migrations, indexing, and test coverage.
+- **Full-Stack Showcase – Next.js dashboard + API** *(coming / link)*  
+  A small internal-tool style dashboard with auth patterns and reporting.
+- **Case Studies (sanitized)** *(coming / link)*  
+  Architecture notes and decision logs from real-world systems (no client IP).
+
+> If you’re reviewing my profile as part of a hiring process and want deeper examples, I’m happy to walk through architecture and tradeoffs (and share additional details where permitted).
+
+---
+
+## How I work
+- I prefer **simple, maintainable architectures** with clear boundaries (routes → services → data access).
+- I optimize **for correctness first**, then performance (indexes, caching, reducing unnecessary calls).
+- I keep systems **secure by default** and aim for code that’s easy to test and evolve.
+
+---
+
+## Currently
+- Building public showcases that reflect my current work (Node/TS/Postgres, Next.js).
+- Open to **backend-leaning full-stack roles** in the Netherlands.
+
 
 <!-- - 📫 How to reach me: ... -->
 
